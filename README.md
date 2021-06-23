@@ -1,8 +1,8 @@
 # **EEG Signal Classification Using Deep Learning**
 
-This example shows how to build and train a convolutional neural network (CNN) from scratch to perform a classification task with an EEG dataset.
+This example shows how to build and train a convolutional neural network (CNN) from scratch to perform a binary classification task with an EEG dataset.
 
-The EEG data used in this example were obtained during a study [1] conducted by researchers at the Temple University Hospital (TUH), and are available for download from the [TUH EEG Corpus.](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml) This example works with the TUH Abnormal EEG Corpus, which is an expert-labeled dataset suited for supervised learning.
+The EEG data used in this example were obtained from a study [1] conducted by researchers at the Temple University Hospital (TUH), and are available for download from the [TUH EEG Corpus.](https://www.isip.piconepress.com/projects/tuh_eeg/html/downloads.shtml) This example works with the TUH Abnormal EEG Corpus, which is an expert-labeled dataset suited for supervised learning.
 
 This example seeks to train a new CNN to classify unknown EEG data as either normal or abnormal. It works through multiple steps of a deep learning workflow:
 
