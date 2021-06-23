@@ -6,7 +6,7 @@ The EEG data used in this example were obtained from a study [1] conducted by re
 
 This example seeks to train a new CNN to classify unknown EEG data as either normal or abnormal. It works through multiple steps of a deep learning workflow:
 
-  - Exploring a public EEG dataset (stored in EDF files)
+  - Exploring a public EEG dataset (stored in [EDF files](https://www.mathworks.com/help/signal/ref/edfinfo.html))
   - Preprocessing the dataset for deep learning
   - Training a CNN deep learning model to perform classification
   - Evaluating the trained model
