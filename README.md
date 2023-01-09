@@ -1,4 +1,4 @@
-# **EEG Signal Classification Using Deep Learning**
+# **Abnormal EEG Signal Classification Using Deep Learning**
 
 This example shows how to build and train a convolutional neural network (CNN) from scratch to perform a classification task with an EEG dataset.
 
